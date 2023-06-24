@@ -44,7 +44,7 @@
     "pretty-quick": "^1.11.1",
     "react": "^16.8.6",
     "react-native": "^0.62.2",
-    "semver": "^6.3.0"
+    "semver": "^7.5.2"
   },
   "dependencies": {
     "base-64": "^0.1.0",
